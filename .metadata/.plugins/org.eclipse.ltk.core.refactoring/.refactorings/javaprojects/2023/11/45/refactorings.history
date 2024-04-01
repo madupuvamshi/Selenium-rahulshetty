@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;strings.NonRepeatedChar&apos; to &apos;FirstNonRepeatedChar&apos;&#x0D;&#x0A;- Original project: &apos;javaprojects&apos;&#x0D;&#x0A;- Original element: &apos;strings.NonRepeatedChar&apos;&#x0D;&#x0A;- Renamed element: &apos;strings.FirstNonRepeatedChar&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;NonRepeatedChar&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;strings{NonRepeatedChar.java[NonRepeatedChar" matchStrategy="1" name="FirstNonRepeatedChar" qualified="false" references="true" similarDeclarations="false" stamp="1699604269795" textual="false" version="1.0"/>
+</session>

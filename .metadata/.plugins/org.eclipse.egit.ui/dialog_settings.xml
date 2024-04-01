@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="madupuvamshi &lt;madupuvamshi1210@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="madupuvamshi &lt;madupuvamshi1210@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\kittu\OneDrive\Desktop\kittuworkspace\selenium\.git">
+			<item value="false"/>
+			<item value="madupuvamshi &lt;madupuvamshi1210@gmail.com&gt;"/>
+			<item value="drt"/>
+			<item value="madupuvamshi &lt;madupuvamshi1210@gmail.com&gt;"/>
+			<item value="dc4e13de689e54b1dd65b3902b31612c7d61016e"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,22 @@
+package strings;
+
+public class ReverseRotation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String s1="vamshikrishna";
+		String s2="krishnavamshi";
+		if(s1.length()!=s2.length())
+		{
+			System.out.println("Not matching");
+		}
+		String s3=s1+s1;	
+		if(s3.contains(s2)) 
+			System.out.println("matching");
+		else 
+			System.out.println("not");
+		
+	}
+
+}

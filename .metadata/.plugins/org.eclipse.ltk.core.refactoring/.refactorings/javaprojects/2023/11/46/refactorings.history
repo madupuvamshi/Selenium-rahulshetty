@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;strings.PrimeorNot&apos; to &apos;PrimeorNot1To100&apos;&#x0D;&#x0A;- Original project: &apos;javaprojects&apos;&#x0D;&#x0A;- Original element: &apos;strings.PrimeorNot&apos;&#x0D;&#x0A;- Renamed element: &apos;strings.PrimeorNot1To100&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PrimeorNot&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;strings{PrimeorNot.java[PrimeorNot" matchStrategy="1" name="PrimeorNot1To100" qualified="false" references="true" similarDeclarations="false" stamp="1700114223333" textual="false" version="1.0"/>
+</session>

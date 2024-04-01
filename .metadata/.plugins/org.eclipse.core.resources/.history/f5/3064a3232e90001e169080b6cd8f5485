@@ -1,0 +1,13 @@
+package strings;
+
+public class CountWords {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String s="my name is vamshi";
+		String[] word=s.trim().split(" ");
+		System.out.println(s.length());
+	}
+
+}

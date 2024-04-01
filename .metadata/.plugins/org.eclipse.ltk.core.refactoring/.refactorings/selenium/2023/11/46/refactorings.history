@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;qafox.Delete&apos; to &apos;StaticDropdown&apos;&#x0D;&#x0A;- Original project: &apos;selenium&apos;&#x0D;&#x0A;- Original element: &apos;qafox.Delete&apos;&#x0D;&#x0A;- Renamed element: &apos;qafox.StaticDropdown&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Delete&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;qafox{Delete.java[Delete" matchStrategy="1" name="StaticDropdown" qualified="false" references="true" similarDeclarations="false" stamp="1700057878156" textual="false" version="1.0"/>
+</session>
